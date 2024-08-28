@@ -1,0 +1,9 @@
+{
+	"name": "df-omk-test1-0001",
+	"location": "koreacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7070ef21-2a44-49c9-8f44-00bf7538982b",
+		"tenantId": "7e690d9b-1d20-4ffa-9f25-338e21d75b50"
+	}
+}
