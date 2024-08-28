@@ -1,5 +1,11 @@
 {
 	"name": "df-omk-test1-0001",
+	"properties": {
+		"globalConfigurations": {
+			"factoryStagingLSReferenceName": "AzureDataLakeStorage1",
+			"factoryStagingLSType": "LinkedServiceReference"
+		}
+	},
 	"location": "koreacentral",
 	"identity": {
 		"type": "SystemAssigned",
