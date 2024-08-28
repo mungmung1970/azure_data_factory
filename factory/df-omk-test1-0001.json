@@ -4,7 +4,7 @@
 		"globalConfigurations": {
 			"factoryStagingLSReferenceName": "AzureDataLakeStorage1",
 			"factoryStagingLSType": "LinkedServiceReference",
-			"factoryStagingFolderPath": "data-powerbi-test-01/synapse"
+			"factoryStagingFolderPath": "data-powerbi-test-01"
 		}
 	},
 	"location": "koreacentral",
